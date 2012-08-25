@@ -86,9 +86,9 @@ GEM
     omniauth (1.1.1)
       hashie (~> 1.2)
       rack
-    omniauth-facebook (1.4.1)
-      omniauth-oauth2 (~> 1.1.0)
-    omniauth-oauth2 (1.1.0)
+    omniauth-facebook (1.4.0)
+      omniauth-oauth2 (~> 1.0.2)
+    omniauth-oauth2 (1.0.3)
       oauth2 (~> 0.8.0)
       omniauth (~> 1.0)
     polyglot (0.3.3)
@@ -164,7 +164,7 @@ DEPENDENCIES
   growl
   guard-rspec
   jquery-rails
-  omniauth-facebook
+  omniauth-facebook (= 1.4.0)
   rails (= 3.2.6)
   rspec-rails
   sass-rails (~> 3.2.3)
