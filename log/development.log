@@ -3358,3 +3358,3547 @@ Served asset /logo.png - 304 Not Modified (0ms)
 
 Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 11:21:02 -0400
 Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 17:22:21 -0400
+Connecting to database specified by database.yml
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (15.9ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 337ms (Views: 218.5ms | ActiveRecord: 18.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 17:22:22 -0400
+Served asset /application.css - 304 Not Modified (34ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 17:22:22 -0400
+Served asset /facebook.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 17:22:22 -0400
+Served asset /application.js - 304 Not Modified (49ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 17:22:22 -0400
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 17:22:22 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 17:22:22 -0400
+Served asset /pages.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 17:22:22 -0400
+Served asset /signups.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 17:22:22 -0400
+Served asset /bg.jpg - 304 Not Modified (8ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 17:22:22 -0400
+Served asset /hr.png - 304 Not Modified (47ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 17:22:23 -0400
+Served asset /logo.png - 304 Not Modified (17ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:25:51 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.6ms)
+Compiled application.css  (425ms)  (pid 767)
+Completed 200 OK in 499ms (Views: 498.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:25:51 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:25:51 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:25:51 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:25:51 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:25:51 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:25:51 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:25:51 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:25:52 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:25:52 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:25:52 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:26:15 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:26:15 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:26:15 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:26:15 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:26:15 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:26:15 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:26:15 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:26:15 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:26:15 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+Compiled application.css  (166ms)  (pid 767)
+Completed 200 OK in 185ms (Views: 184.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:27:03 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (196ms)  (pid 767)
+Completed 200 OK in 217ms (Views: 216.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:28:21 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:28:43 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (157ms)  (pid 767)
+Completed 200 OK in 177ms (Views: 176.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:28:44 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:44 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:44 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:44 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:44 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:44 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:28:44 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:28:44 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:28:44 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:28:44 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:29:55 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 10ms (Views: 8.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:29:55 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:29:55 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:29:55 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:29:55 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:29:55 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:29:55 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:29:55 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:29:55 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:30:09 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 10ms (Views: 8.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:30:09 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:09 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:09 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:09 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:09 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:09 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:09 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:30:09 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (167ms)  (pid 767)
+Completed 200 OK in 193ms (Views: 191.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:30:32 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:31:00 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (38.7ms)
+Compiled application.css  (156ms)  (pid 767)
+Completed 200 OK in 215ms (Views: 213.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:31:01 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:01 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:01 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:01 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:01 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:01 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:01 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:31:01 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:31:01 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:31:01 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (154ms)  (pid 767)
+Completed 200 OK in 172ms (Views: 171.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:31:14 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (154ms)  (pid 767)
+Completed 200 OK in 175ms (Views: 173.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:31:37 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (205ms)  (pid 767)
+Completed 200 OK in 224ms (Views: 222.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:31:53 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (158ms)  (pid 767)
+Completed 200 OK in 181ms (Views: 179.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:32:21 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:32:42 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (204ms)  (pid 767)
+Completed 200 OK in 227ms (Views: 225.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:32:43 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:43 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:43 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:43 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:43 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:43 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:32:43 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:32:43 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:32:43 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:32:43 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:33:04 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (157ms)  (pid 767)
+Completed 200 OK in 177ms (Views: 175.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:33:05 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:05 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:05 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:05 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:05 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:05 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:05 -0400
+Served asset /application.js - 304 Not Modified (46ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:33:05 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:33:05 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:33:05 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:33:17 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (158ms)  (pid 767)
+Completed 200 OK in 181ms (Views: 179.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:33:18 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:18 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:18 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:18 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:18 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:18 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:18 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:33:18 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:33:18 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:33:18 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (155ms)  (pid 767)
+Completed 200 OK in 215ms (Views: 213.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:33:41 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (171ms)  (pid 767)
+Completed 200 OK in 191ms (Views: 189.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:34:27 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (194ms)  (pid 767)
+Completed 200 OK in 218ms (Views: 216.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:35:06 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (161ms)  (pid 767)
+Completed 200 OK in 184ms (Views: 182.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:35:43 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:36:13 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (195ms)  (pid 767)
+Completed 200 OK in 216ms (Views: 214.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:36:14 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:36:14 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:36:14 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:36:14 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:36:14 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:36:14 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:36:14 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:36:14 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:36:14 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:36:14 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:39:13 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+Compiled application.css  (192ms)  (pid 767)
+Completed 200 OK in 216ms (Views: 214.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:39:14 -0400
+Served asset /application.css - 200 OK (51ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:39:14 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:39:14 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:39:14 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:39:14 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:39:14 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:39:14 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:39:14 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:39:14 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:39:14 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:43:12 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 11ms (Views: 9.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:43:12 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:43:12 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:43:12 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:43:12 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:43:12 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:43:12 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:43:12 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:43:12 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:44:51 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (233ms)  (pid 767)
+Completed 200 OK in 259ms (Views: 257.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:44:52 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:44:52 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:44:52 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:44:52 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:44:52 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:44:52 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:44:52 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:44:52 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:44:52 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:44:52 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (190ms)  (pid 767)
+Completed 200 OK in 210ms (Views: 208.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:45:14 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (154ms)  (pid 767)
+Completed 200 OK in 175ms (Views: 174.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:45:45 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:45:59 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 9.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:45:59 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:59 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:59 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:59 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:59 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:59 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:45:59 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:45:59 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:46:38 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+Compiled application.css  (163ms)  (pid 767)
+Completed 200 OK in 184ms (Views: 183.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:46:38 -0400
+Served asset /application.css - 200 OK (11ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:38 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:38 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:38 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:38 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:39 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:39 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:46:39 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:46:39 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:46:39 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (190ms)  (pid 767)
+Completed 200 OK in 211ms (Views: 210.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:46:58 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (151ms)  (pid 767)
+Completed 200 OK in 170ms (Views: 169.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:47:11 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:47:44 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (196ms)  (pid 767)
+Completed 200 OK in 216ms (Views: 214.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:47:45 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:45 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:45 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:45 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:45 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:45 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:47:45 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:47:45 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:47:45 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:47:45 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:48:15 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+Compiled application.css  (153ms)  (pid 767)
+Completed 200 OK in 174ms (Views: 172.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:48:16 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:16 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:16 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:16 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:16 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:16 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:16 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:48:16 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:48:16 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:48:16 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:48:28 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:48:28 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:28 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:28 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:28 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:28 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:28 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:28 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:48:28 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:48:35 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:48:35 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:35 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:35 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:35 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:35 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:35 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:48:35 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:48:35 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:49:36 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (153ms)  (pid 767)
+Completed 200 OK in 174ms (Views: 173.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:49:36 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:36 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:36 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:36 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:36 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:36 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:36 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:49:36 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:49:37 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:49:37 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (206ms)  (pid 767)
+Completed 200 OK in 232ms (Views: 230.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:49:48 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (157ms)  (pid 767)
+Completed 200 OK in 215ms (Views: 213.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:50:04 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (156ms)  (pid 767)
+Completed 200 OK in 178ms (Views: 177.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Served asset /application.css - 200 OK (11ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:50:13 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:50:24 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (195ms)  (pid 767)
+Completed 200 OK in 216ms (Views: 215.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:50:25 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:25 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:25 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:25 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:25 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:25 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:50:25 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:50:25 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:50:25 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:50:25 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (166ms)  (pid 767)
+Completed 200 OK in 186ms (Views: 184.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:53:16 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (191ms)  (pid 767)
+Completed 200 OK in 212ms (Views: 210.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:53:46 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (162ms)  (pid 767)
+Completed 200 OK in 181ms (Views: 180.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:54:14 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:54:42 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (159ms)  (pid 767)
+Completed 200 OK in 185ms (Views: 183.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:54:43 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:43 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:43 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:43 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:43 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:43 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:54:43 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:54:43 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:54:43 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:54:43 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:55:24 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (165ms)  (pid 767)
+Completed 200 OK in 223ms (Views: 221.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:55:24 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:55:24 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:55:24 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:55:24 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:55:24 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:55:24 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:55:24 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:55:25 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:55:25 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:55:25 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:56:47 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:56:47 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:56:47 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:56:47 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:56:47 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:56:47 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:56:47 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:56:48 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:56:48 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:57:23 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (157ms)  (pid 767)
+Completed 200 OK in 178ms (Views: 177.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:57:24 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:24 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:24 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:24 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:24 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:24 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:24 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:57:24 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:57:24 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:57:24 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (153ms)  (pid 767)
+Completed 200 OK in 212ms (Views: 171.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:57:41 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:58:13 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (164ms)  (pid 767)
+Completed 200 OK in 182ms (Views: 181.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:58:14 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:14 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:14 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:14 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:14 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:14 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:14 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:58:14 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:58:14 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:58:14 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (157ms)  (pid 767)
+Completed 200 OK in 178ms (Views: 176.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Served asset /application.css - 200 OK (11ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:58:25 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:58:58 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (267ms)  (pid 767)
+Completed 200 OK in 293ms (Views: 292.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:58:58 -0400
+Served asset /application.css - 200 OK (11ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:59 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:59 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:59 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:59 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:59 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:58:59 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:58:59 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:58:59 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:58:59 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 18:59:14 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (156ms)  (pid 767)
+Completed 200 OK in 179ms (Views: 177.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 18:59:15 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 18:59:15 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 18:59:15 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 18:59:15 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 18:59:15 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 18:59:15 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 18:59:15 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 18:59:15 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 18:59:15 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 18:59:15 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (203ms)  (pid 767)
+Completed 200 OK in 223ms (Views: 221.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/hr.png" for 127.0.0.1 at 2012-08-27 19:00:24 -0400
+Served asset /hr.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:15:53 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (164ms)  (pid 767)
+Completed 200 OK in 185ms (Views: 183.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:15:54 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:15:54 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:15:54 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:15:54 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:15:54 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:15:54 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:15:54 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:15:54 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 19:15:54 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:16:06 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:16:06 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:06 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:06 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:06 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:06 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:06 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:06 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:16:06 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:16:28 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (161ms)  (pid 767)
+Completed 200 OK in 183ms (Views: 181.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:16:29 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:29 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:29 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:29 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:29 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:29 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:16:29 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 19:16:29 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:16:29 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:17:21 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (198ms)  (pid 767)
+Completed 200 OK in 221ms (Views: 219.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:17:21 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:21 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:21 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:21 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:21 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:21 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:21 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 19:17:21 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:17:21 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:17:48 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (166ms)  (pid 767)
+Completed 200 OK in 193ms (Views: 191.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:17:48 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:48 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:48 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:48 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:48 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:48 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:17:48 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 19:17:48 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:17:48 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:18:00 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (155ms)  (pid 767)
+Completed 200 OK in 213ms (Views: 212.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:18:01 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:01 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:01 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:01 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:01 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:01 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:01 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 19:18:01 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:18:01 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:18:58 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (164ms)  (pid 767)
+Completed 200 OK in 183ms (Views: 182.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:18:58 -0400
+Served asset /application.css - 200 OK (47ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:58 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:58 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:58 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:58 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:58 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:18:58 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 19:18:58 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:18:58 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:19:19 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+Compiled application.css  (167ms)  (pid 767)
+Completed 200 OK in 187ms (Views: 185.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:19:19 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:19:19 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:19:19 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:19:19 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:19:20 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:19:20 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:19:20 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:19:20 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2012-08-27 19:19:20 -0400
+Served asset /bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:35:42 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (192ms)  (pid 767)
+Completed 200 OK in 213ms (Views: 211.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:35:42 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:35:42 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:35:42 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:35:42 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:35:42 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:35:42 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:35:42 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:35:42 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:36:14 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (155ms)  (pid 767)
+Completed 200 OK in 180ms (Views: 178.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:36:14 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:14 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:14 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:14 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:14 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:14 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:14 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:36:14 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:36:37 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (197ms)  (pid 767)
+Completed 200 OK in 217ms (Views: 215.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:36:37 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:37 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:37 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:37 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:37 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:37 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:36:37 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:36:37 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:37:34 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:37:34 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:37:34 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:37:34 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:37:34 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:37:34 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:37:34 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:37:34 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:37:34 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:38:52 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+Compiled application.css  (169ms)  (pid 767)
+Completed 200 OK in 232ms (Views: 231.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:38:52 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:38:52 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:38:52 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:38:52 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:38:52 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:38:52 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:38:52 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:38:52 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:39:17 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (159ms)  (pid 767)
+Completed 200 OK in 179ms (Views: 178.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:39:17 -0400
+Served asset /application.css - 200 OK (6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:18 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:18 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:18 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:18 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:18 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:18 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:39:18 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:39:28 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (196ms)  (pid 767)
+Completed 200 OK in 218ms (Views: 217.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:39:28 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:28 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:28 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:28 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:28 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:28 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:39:28 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:39:28 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:42:26 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+Compiled application.css  (153ms)  (pid 767)
+Completed 200 OK in 172ms (Views: 170.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:42:26 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:42:26 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:42:26 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:42:26 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:42:26 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:42:26 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:42:26 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:42:26 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:44:19 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (197ms)  (pid 767)
+Completed 200 OK in 216ms (Views: 215.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:44:19 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:44:19 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:44:19 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:44:19 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:44:19 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:44:19 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:44:19 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:44:19 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:45:01 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:45:01 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:45:01 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:45:01 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:45:01 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:45:01 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:45:01 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:45:01 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:45:01 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:48:23 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (171ms)  (pid 767)
+Completed 200 OK in 230ms (Views: 229.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:48:23 -0400
+Served asset /application.css - 200 OK (11ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:23 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:23 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:23 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:23 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:23 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:23 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:48:23 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:48:39 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (168ms)  (pid 767)
+Completed 200 OK in 191ms (Views: 189.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:48:39 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:39 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:40 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:40 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:40 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:40 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:48:40 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:48:40 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:54:59 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (199ms)  (pid 767)
+Completed 200 OK in 220ms (Views: 218.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:54:59 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:54:59 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:54:59 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:54:59 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:54:59 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:54:59 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:54:59 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:54:59 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:56:33 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (168ms)  (pid 767)
+Completed 200 OK in 189ms (Views: 187.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:56:34 -0400
+Served asset /application.css - 200 OK (11ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:56:34 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:56:34 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:56:34 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:56:34 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:56:34 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:56:34 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:56:34 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:57:11 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (196ms)  (pid 767)
+Completed 200 OK in 219ms (Views: 217.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:57:11 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:11 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:11 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:11 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:11 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:11 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:11 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:57:11 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-27 19:57:19 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (162ms)  (pid 767)
+Completed 200 OK in 182ms (Views: 180.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-27 19:57:19 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:19 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:19 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:19 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:19 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:19 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-27 19:57:19 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-27 19:57:19 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-28 11:19:33 -0400
+Connecting to database specified by database.yml
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 206ms (Views: 90.8ms | ActiveRecord: 3.4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:19:34 -0400
+Served asset /jquery.js - 304 Not Modified (53ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:19:34 -0400
+Served asset /application.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-28 11:19:34 -0400
+Served asset /facebook.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:19:34 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:19:34 -0400
+Served asset /pages.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-28 11:19:34 -0400
+Served asset /signups.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:19:34 -0400
+Served asset /application.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/fb_signup_button.gif" for 127.0.0.1 at 2012-08-28 11:19:34 -0400
+Served asset /fb_signup_button.gif - 200 OK (24ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-28 11:19:34 -0400
+Served asset /logo.png - 304 Not Modified (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-28 11:24:06 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 15ms (Views: 12.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:06 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:06 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:06 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:06 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:06 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:06 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:06 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-08-28 11:24:06 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fb_signup_button.gif" for 127.0.0.1 at 2012-08-28 11:24:06 -0400
+Served asset /fb_signup_button.gif - 304 Not Modified (0ms)

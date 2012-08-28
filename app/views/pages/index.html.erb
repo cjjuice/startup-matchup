@@ -1,12 +1,21 @@
-<!--  
-<% for user in @users %>
-    <ul>
-	<li><img src= <%= user.image %>></li>
-	<li><%= user.name %></li>
-	</ul>
-<% end %>  
-<%= link_to	"Signup with Facebook", "/auth/facebook", id: "sign_in"%>
--->
-
+<div class="slider_wrapper">
+	<div id="slider">
+		<div class="left">
+			<h1>Are you ready? It all starts here.</h1>
+			<p>Ever had an idea for a website? The next Facebook? A mobile app or an awesome game? But had no idea where to start or how to develop it? Startup Matchup is where to begin. Develop your skills, learn agile programming, and build awesome shit. Join us for the Fall session! Will you be the next big thing?</p>
+		</div>
+		<div class="right"> 
+			<h1>These People are In. Are you?</h1>
+				<div id="member_scroll">
+					<% for user in @users %>
+	    			<div class="member">	
+				        <img src= <%= user.image %>> <h3><%= user.name %></h3>
+				    </div>
+					<% end %>  
+				</div>	
+				<%= link_to image_tag("fb_signup_button.gif"), "/auth/facebook", id: "sign_in"%>
+		</div>	
+    </div>
+</div>
 
 

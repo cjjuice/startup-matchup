@@ -2,10 +2,11 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 body {
-	font-family: $verdana;
-	background: url('/assets/bg.jpg') repeat;
-}
-
+	font-family: $lucida-grande;
+	/* background: url('/assets/bg.jpg') repeat;*/
+	background: #7BBA55;
+	color:white;
+	}
 .container {
 	margin-top:30px;
 	margin-left:auto;
@@ -14,11 +15,12 @@ body {
 }
 
 .main_head {
-	width:940px;
+	width:960px;
 	position:relative;
 }
 
 #logo img {
+	margin-top:30px;
 	width:220px;
 	height:83px;
 	display:block;
@@ -28,6 +30,49 @@ body {
 .divider {
 	margin-top:25px;
 	height:5px;
-	width:940px;
-	background-image:url('/assets/hr.png');
+	width:960px;
 }
+.slider_wrapper {
+	margin-top:30px;
+	width:960px;
+	height:360px;
+}
+.slider {
+}
+.left {
+	float:left;
+	width:450px;
+	line-height:1.5em;
+}
+.right {
+	float:right;
+	width:450px;
+	overflow:scroll;
+}
+
+.left h1 {
+	margin-bottom:15px;
+	font-size:1.3em;
+}
+.right h1 {
+	margin-bottom:15px;
+	font-size:1.3em;
+} 
+#member_scroll {
+	margin-bottom:15px;
+}
+.member img {
+	border-width:4px;
+		border-color:white;
+		border-style:solid;
+		margin-right:10px;
+}
+.member h3 {
+	display:inline;
+		font-size:20px;
+	    padding:0 0 0 6px;
+	    vertical-align:100%;
+	    color: black;
+}
+
+
