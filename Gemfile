@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.6'
-
+gem 'pg'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
@@ -23,7 +23,6 @@ group :test , :development do
   gem 'rspec-rails'
   gem 'guard-rspec'
   gem 'factory_girl_rails'
-  gem 'sqlite3'
   gem 'growl'
 end  
 
@@ -45,3 +44,4 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 gem 'omniauth-facebook', '1.4.0' #facebook auth
+gem 'heroku'
