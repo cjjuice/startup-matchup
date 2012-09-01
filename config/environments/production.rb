@@ -24,9 +24,7 @@ StartupMatchup::Application.configure do
   config.action_mailer.smtp_settings = {
     address: "mail.startupmatchup.org",
     port: 26,
-    domain: "startupmatchup.org",
     authentication: "login",
-    enable_starttls_auto: true,
     user_name: ENV['EMAIL_USERNAME'],
     password: ENV['EMAIL_PASSWORD']
   }
