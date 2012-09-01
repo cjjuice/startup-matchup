@@ -3,7 +3,6 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 body {
 	font-family: $lucida-grande;
-	/* background: url('/assets/bg.jpg') repeat;*/
 	background: #7BBA55;
 	color:white;
 	}
@@ -27,15 +26,26 @@ body {
 	margin-left:auto;
 	margin-right:auto;
 }
-.divider {
+#nav_wrapper {
 	margin-top:25px;
-	height:5px;
-	width:960px;
+	margin-bottom:50px;
+	height:10px;
+	width:325px;
+	margin-left:auto;
+	margin-right:auto;
 }
+#nav_wrapper li
+{
+   display:inline;
+   padding-right:30px;
+   font-size:1.3em;
+}
+
+
 .slider_wrapper {
 	margin-top:30px;
 	width:960px;
-	height:360px;
+	height:180px;
 }
 .slider {
 }
@@ -47,6 +57,7 @@ body {
 .right {
 	float:right;
 	width:450px;
+	height:180px;
 	overflow:scroll;
 }
 
@@ -78,5 +89,13 @@ body {
 #sign_in {
 	height:30px;
 }
-
+.cal {
+	margin-top:30px;
+	width:450px;
+}
+.fb_icon {
+	float:right;
+	font-size:1.3em;
+	text-align:center;
+}
 
