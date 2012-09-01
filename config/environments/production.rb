@@ -20,6 +20,16 @@ StartupMatchup::Application.configure do
   # Generate digests for assets URLs
   config.assets.digest = true
 
+  config.action_mailer.delivery_method = :smtp
+  config.action_mailer.smtp_settings = {
+    address: "mail.startupmatchup.org",
+    port: 26,
+    domain: "startupmatchup.org",
+    authentication: "plain",
+    enable_starttls_auto: true,
+    user_name: ENV['EMAIL_USERNAME'],
+    password: ENV['EMAIL_PASSWORD']
+  }
   # Defaults to nil and saved in location specified by config.assets.prefix
   # config.assets.manifest = YOUR_PATH
 
