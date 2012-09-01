@@ -3,12 +3,13 @@ ENV['FACEBOOK_APP_ID'] = '113351525479090'
 ENV['FACEBOOK_APP_SECRET'] = '7e9b5dfe60bde6f812525886cc662041'
 
 config.action_mailer.delivery_method = :smtp
-config.action_mailer.smtp_settings = {
-  address: "mail.startupmatchup.org",
-  port: 26,
-  authentication: "login",
-  user_name: 'no-reply@startupmatchup.org',
-  password: 'nlC38oJ@v=o3'
+
+ActionMailer::Base.smtp_settings = {
+  :address  => "mail.startupmatchup.org",
+  :port  => 26,
+  :user_name  => 'no-reply@startupmatchup.org',
+  :password  => 'nlC38oJ@v=o3',
+  :authentication  => :login
 }
 
 config.action_mailer.raise_delivery_errors = true
