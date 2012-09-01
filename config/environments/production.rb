@@ -25,11 +25,13 @@ StartupMatchup::Application.configure do
     address: "mail.startupmatchup.org",
     port: 26,
     domain: "startupmatchup.org",
-    authentication: "plain",
+    authentication: "login",
     enable_starttls_auto: true,
     user_name: ENV['EMAIL_USERNAME'],
     password: ENV['EMAIL_PASSWORD']
   }
+  
+  config.action_mailer.raise_delivery_errors = true
   # Defaults to nil and saved in location specified by config.assets.prefix
   # config.assets.manifest = YOUR_PATH
 
