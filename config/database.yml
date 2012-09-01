@@ -5,11 +5,11 @@ development:
   encoding: unicode
   password: 
   pool: 5
-  username: cjbordeleau
+  username: cbordeleau
 test: 
   adapter: postgresql
   database: startupmatchup_test
   encoding: unicode
   password: 
   pool: 5
-  username: cjbordeleau
+  username: cbordeleau
