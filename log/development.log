@@ -11718,3 +11718,223 @@ Served asset /fb_signup_button.gif - 304 Not Modified (0ms)
 
 Started GET "/assets/logo.png" for 127.0.0.1 at 2012-09-01 20:34:32 -0400
 Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-01 21:30:29 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+Compiled application.css  (156ms)  (pid 5365)
+Completed 200 OK in 212ms (Views: 210.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-09-01 21:30:29 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-09-01 21:30:29 -0400
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-09-01 21:30:29 -0400
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-09-01 21:30:29 -0400
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-09-01 21:30:29 -0400
+Served asset /signups.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-09-01 21:30:29 -0400
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-09-01 21:30:29 -0400
+Served asset /facebook.js - 200 OK (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-09-01 21:30:29 -0400
+Served asset /logo.png - 200 OK (0ms)
+
+
+Started GET "/assets/fb_signup_button.gif" for 127.0.0.1 at 2012-09-01 21:30:29 -0400
+Served asset /fb_signup_button.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-01 21:31:24 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.4ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (202ms)  (pid 5365)
+Completed 200 OK in 221ms (Views: 220.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-09-01 21:31:24 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:24 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:24 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:24 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:24 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:24 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:24 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-09-01 21:31:24 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fb_signup_button.gif" for 127.0.0.1 at 2012-09-01 21:31:24 -0400
+Served asset /fb_signup_button.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-01 21:31:37 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (158ms)  (pid 5365)
+Completed 200 OK in 179ms (Views: 177.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-09-01 21:31:37 -0400
+Served asset /application.css - 200 OK (5ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:37 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:37 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:37 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:37 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:37 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:37 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-09-01 21:31:37 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fb_signup_button.gif" for 127.0.0.1 at 2012-09-01 21:31:37 -0400
+Served asset /fb_signup_button.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-01 21:31:49 -0400
+Processing by PagesController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+Compiled application.css  (163ms)  (pid 5365)
+Completed 200 OK in 183ms (Views: 182.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-09-01 21:31:50 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:50 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:50 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:50 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:50 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:50 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-09-01 21:31:50 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fb_signup_button.gif" for 127.0.0.1 at 2012-09-01 21:31:50 -0400
+Served asset /fb_signup_button.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-09-01 21:31:50 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-01 21:32:00 -0400
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (159ms)  (pid 5365)
+Completed 200 OK in 216ms (Views: 215.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-09-01 21:32:00 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-09-01 21:32:00 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-09-01 21:32:00 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/signups.js?body=1" for 127.0.0.1 at 2012-09-01 21:32:00 -0400
+Served asset /signups.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-09-01 21:32:00 -0400
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-09-01 21:32:00 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2012-09-01 21:32:00 -0400
+Served asset /facebook.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-09-01 21:32:00 -0400
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fb_signup_button.gif" for 127.0.0.1 at 2012-09-01 21:32:00 -0400
+Served asset /fb_signup_button.gif - 304 Not Modified (0ms)
