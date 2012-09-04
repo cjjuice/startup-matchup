@@ -45,3 +45,5 @@ gem 'jquery-rails'
 
 gem 'omniauth-facebook', '1.4.0' #facebook auth
 gem 'heroku'
+gem 'koala'
+gem 'whenever', :require => false
