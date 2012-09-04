@@ -15,7 +15,12 @@ class User < ActiveRecord::Base
   
   def self.update_records 
     User.all.each do |user|
+      begin
       graph = Koala::Facebook::API.new(user.oauth_token)
+      rescue Koala::Facebook::APIError
+        logger.info e.to_s
+        nil
+      end  
       records = graph.get_object("me")
       user.name = records["name"]
       user.email = records["email"]
