@@ -18,7 +18,6 @@ class User < ActiveRecord::Base
       begin
       graph = Koala::Facebook::API.new(user.oauth_token)
       rescue Koala::Facebook::APIError
-        logger.info e.to_s
         nil
       end  
       records = graph.get_object("me")
