@@ -17,14 +17,15 @@ class User < ActiveRecord::Base
     User.all.each do |user|
       begin
       graph = Koala::Facebook::API.new(user.oauth_token)
+      records = graph.get_object("me")
       rescue Koala::Facebook::APIError
         nil
-      end  
-      records = graph.get_object("me")
+      else
       user.name = records["name"]
       user.email = records["email"]
       user.image = graph.get_picture("me")
       user.save!
+      end
     end
   end  
   
