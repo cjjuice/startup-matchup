@@ -2,41 +2,41 @@
 <html>
 <head>
   <title>StartupMatchup</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= stylesheet_link_tag "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
 </head>
 <body>
-	<div id="container">
-		<div id="header">
+	<div id="top_bar">
+	</div>	
+	<div id="header">
+		<div id="nav_wrapper">
 			<div id="navigation">
-				<div class="nav">
-					<ul>
-						<li>
-							<a></a>
-						</li>
-						<li>
-							<a></a>
-						</li>		
-					</ul>	
-				</div>
 				<div id="logo">
 					<a>
-						<img>
+						<img src="/assets/logo.png"/>
 					</a>	
-				</div>
+				</div>		
 				<div class="nav">
 					<ul>
-						<li>
-							<a></a>
+						<li id="nav_about">
+							<a id="about_link">About</a>
+						</li> 
+						<li id="nav_calandar">
+							<a id="calandar_link">Calendar</a>
+						</li>		
+						<li id="nav_signup">
+							<a id="signup_link">Signup</a>
 						</li>
-						<li>
-							<a></a>
+						<li id="nav_contact">
+							<a id="contact_link">Contact</a>
 						</li>
 					</ul>	
-				</div>			
-			</div>	
+				</div>
+			</div>			
 		</div>	
+	</div>
+	<div id="container_wrapper">	
 <%= yield %>
         <div id="footer">
 		</div>

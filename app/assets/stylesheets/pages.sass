@@ -1,2 +1,129 @@
-#container
-	+grid-system(12)
+$ninesixty-columns: 12
+
+body 
+	background: url('/assets/background-body.png')
+	
+#top_bar 
+	height: 27px
+	background: #419639
+	
+#header
+	background: white
+	height: 110px
+	-moz-box-shadow: 0 18px 18px -18px #999 
+	-webkit-box-shadow: 0 18px 18px -18px #999 
+	box-shadow: 0 18px 18px -18px #999 
+	
+#header #nav_wrapper
+	+grid-container
+	margin: 0 auto
+	position: relative
+	z-index: 300
+
+#header #nav_wrapper #navigation 
+	+grid-prefix(1)
+	+grid(11)
+	margin: 0 auto
+	position: relative
+	overflow: hidden
+	
+#header #nav_wrapper #navigation .nav 
+	float: right
+	margin-top: 42px
+	margin-right: 10px
+
+#header #nav_wrapper #navigation .nav li 
+	list-style: none
+	float: left
+	padding-right: 5px
+
+#header #nav_wrapper #navigation .nav li img 
+	margin: 18px 0 0 0	
+	
+#header #nav_wrapper #navigation .nav a 
+	padding: 4px 10px 0 10px
+	color: #959595
+	font: normal normal normal 14px 'DINRegular', Tahoma, Arial, sans-serif
+	text-transform: uppercase
+
+#header #nav_wrapper #navigation #logo 
+	float: left
+	margin-top: 23px
+	width: 170px
+	height: 64px
+
+
+#container_wrapper
+	width: 100%
+	
+		
+#container_wrapper #container #inner_content
+	+grid-container
+	margin: 0 auto
+	
+	
+#container_wrapper #container #inner_content #slider_wrapper
+	+grid(12)
+
+#container_wrapper #container #inner_content #container_wrapper
+	+grid(12)
+	background: white
+	margin-top: -10px
+	
+#container_wrapper #container #inner_content #container_wrapper #content_wrapper
+	+grid-push(1)
+	+grid(10)
+	background: white
+	position: relative
+	z-index: 1
+	margin-top: -120px
+	border-top: 10px solid #529944
+	min-height: 106px
+	
+#about_info 
+	padding: 25px 40px 50px 40px
+	
+#about_info p 
+	font: 25px/38px 'DINRegular'
+	letter-spacing: -.2px 
+	margin-bottom: 20px
+	
+#about_info p span  
+	color: #529944
+
+#signup
+	padding: 0px 40px 60px 40px
+	display: block
+
+#signup h1 
+	font: normal normal 25px/34px 'DINRegular', Arial, Sans-serif
+	color: #529944 
+	letter-spacing: -.7px
+	border-bottom: 1px dotted #afafaf
+
+#signup a img
+	padding-top: 60px
+
+#signup h3
+	color: #fff 
+	background: #529944	
+	font: 15px/20px 'DINRegular'
+	padding: 5px
+	text-transform: uppercase
+
+#signup_form
+	+grid(4)
+	float: left
+
+#signedup_fb
+	+grid(4)
+	margin-top: 20px
+	float: right
+
+#signedup_fb #fb_heading 
+	margin-bottom: 10px
+	
+
+	
+	
+	

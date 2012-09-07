@@ -1,8 +1,44 @@
-<div id="feature">
-	<div id="slider">
-	</div>	
-	<div id="fb_list">
-	</div>	
-</div>
-<div id="cal">
+<div id="container">	
+	<div id="inner_content">
+		<div id="slider_wrapper">
+			<div id="slide1">
+				<img id="slide1" src="/assets/slide1.jpg"/>
+			</div>	
+			<div id="slide2">
+			</div>	
+		</div>
+		<div id="container_wrapper">
+			<div id="content_wrapper">
+				<div id="about">
+					<div id="about_info">
+						<p><span>Big Thinkers Wanted.</span>
+						Ever had an idea for a website? The next Facebook? A mobile app or an awesome game? But had no idea where to start or how to develop it? Startup Matchup is where to begin. Develop your skills, learn agile programming, and build awesome shit. Join us for the Fall session! Will you be the next big thing?
+						</p>
+		    		</div>		
+				</div>	
+				<div id="signup">
+					<h1 id="signup_head">Signup!</h1>	
+					<div id="signup_form"> 
+							  <%= link_to image_tag("fb_login.jpg"), "/auth/facebook", id: "sign_in"%>
+							 <h1>--or--</h1>
+							 
+					</div>
+					<div id="signedup_fb">
+						<h3 id="fb_heading">Look who's signed up</h3>
+						<div id="member_scroll">
+											<% for user in @users %>
+							    			<div class="member">	
+										        <img src= <%= user.image %>> <h3><%= user.name %></h3>
+										    </div>
+											<% end %>  
+						</div>
+					</div>		
+				</div>
+				<div id="cal">
+				</div>	
+				<div id="contact">
+				</div>
+			</div>	
+		</div>		
+	</div>		
 </div>	

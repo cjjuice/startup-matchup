@@ -1,0 +1,135 @@
+/* 
+=====================
+DIN FONT FAMILY DEFINITIONS
+=====================
+*/
+@font-face { font-family: 'DINMediumRegular'; src: url('/assets/dinmedium-webfont.eot'); src: url('/assets/dinmedium-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/dinmedium-webfont.woff') format('woff'), url('/assets/dinmedium-webfont.ttf') format('truetype'), url('/assets/dinmedium-webfont.svg#DINMediumRegular') format('svg'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'DINRegular'; src: url('/assets/din-webfont.eot'); src: url('/assets/din-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/din-webfont.woff') format('woff'), url('/assets/din-webfont.ttf') format('truetype'), url('/assets/din-webfont.svg#DINRegular') format('svg'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'DINBold'; src: url('/assets/dinbold-webfont.eot'); src: url('/assets/dinbold-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/dinbold-webfont.woff') format('woff'), url('/assets/dinbold-webfont.ttf') format('truetype'), url('/assets/dinbold-webfont.svg#DINBold') format('svg'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'DINLightRegular'; src: url('/assets/dinlight-webfont.eot'); src: url('/assets/dinlight-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/dinlight-webfont.woff') format('woff'), url('/assets/dinlight-webfont.ttf') format('truetype'), url('/assets/dinlight-webfont.svg#DINLightRegular') format('svg'); font-weight: normal; font-style: normal; }
+
+
+/* 
+=====================
+SERIF FONT FAMILY DEFINITIONS
+=====================
+*/
+
+
+
+@font-face {
+    font-family: 'DroidSerifBold';
+    src: url('/assets/droidserif-bold-webfont.eot');
+    src: url('/assets/droidserif-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/droidserif-bold-webfont.woff') format('woff'),
+         url('/assets/droidserif-bold-webfont.ttf') format('truetype'),
+         url('/assets/droidserif-bold-webfont.svg#DroidSerifBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DroidSerifRegular';
+    src: url('/assets/droidserif-regular-webfont.eot');
+    src: url('/assets/droidserif-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/droidserif-regular-webfont.woff') format('woff'),
+         url('/assets/droidserif-regular-webfont.ttf') format('truetype'),
+         url('/assets/droidserif-regular-webfont.svg#DroidSerifRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DroidSerifItalic';
+    src: url('/assets/droidserif-italic-webfont.eot');
+    src: url('/assets/droidserif-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/droidserif-italic-webfont.woff') format('woff'),
+         url('/assets/droidserif-italic-webfont.ttf') format('truetype'),
+         url('/assets/droidserif-italic-webfont.svg#DroidSerifItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* 
+=====================
+GLOBAL FONTS & MISC
+=====================
+*/
+
+
+body, p {
+	color: #6d6e71;
+	font: normal normal 14px/25px 'DroidSerifRegular', Tahoma, Arial, sans-serif;
+	padding-bottom: 20px;
+	letter-spacing:.2px;
+}
+
+h1 {
+	color: #529944;
+	font: normal normal 40px/42px 'DINLightRegular', Tahoma, Arial, sans-serif;
+}
+
+h2 {
+    color: #529944;
+    font: normal normal 33px 'DINLightRegular';
+    padding: 15px 0;
+}
+
+h3 {
+	color: #529944;
+	font: normal normal normal 19px/23px 'DINMediumRegular', Tahoma, Arial, sans-serif;
+	padding-bottom: 15px;
+}
+
+h4 {
+	color: #58595b;
+	font: normal normal normal 22px/26px 'DINRegular', Tahoma, Arial, sans-serif;
+}
+
+
+h5 {
+	color: #419639;
+	font: normal normal 18px/22px 'DINRegular', Tahoma, Arial, sans-serif;
+}
+
+#sub-page-inner #page-intro {
+	width:800px;
+}
+
+#sub-page-inner #page-intro p {
+	font: normal normal 19px/27px 'DINLightRegular', Georgia, serif !important;
+	color:#6D6E71;
+}
+
+hr {
+    border: none;
+    border-bottom: 1px dotted #afafaf;
+    height: 0px; /* For IE7 */
+}
+
+.green-bar {
+	width: 100%;
+	height: 5px;
+	background: #529944;
+}
+
+#member_scroll {
+	margin-bottom:15px;
+	width:350px;
+}
+.member img {
+	border-width:4px;
+		border-color: #8E8E8E;
+		border-style:solid;
+		margin-right:10px;
+}
+.member h3 {
+	display:inline;
+		font-size:20px;
+	    padding:0 0 0 6px;
+	    vertical-align:100%;
+	    color: black;
+}

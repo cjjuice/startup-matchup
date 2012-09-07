@@ -1,4 +1,6 @@
 StartupMatchup::Application.routes.draw do
+  get "users/create"
+
   match 'auth/:provider/callback', to: 'signups#create'
   match 'auth/failure', to: redirect('/')
   # The priority is based upon order of creation:

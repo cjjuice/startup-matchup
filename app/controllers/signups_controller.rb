@@ -4,5 +4,6 @@ class SignupsController < ApplicationController
       session[:user_id] = user.id
       UserMailer.signup_confirmation(user).deliver
       redirect_to root_url
-    end
+  end
+  
 end
