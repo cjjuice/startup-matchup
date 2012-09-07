@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>StartupMatchup</title>
+  <title>Startup Matchup - Learn Programming, Build Cool Stuff</title>
   <%= stylesheet_link_tag "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
@@ -13,23 +13,23 @@
 		<div id="nav_wrapper">
 			<div id="navigation">
 				<div id="logo">
-					<a>
+					<button id="logo_link">
 						<img src="/assets/logo.png"/>
-					</a>	
+					</button>	
 				</div>		
 				<div class="nav">
 					<ul>
 						<li id="nav_about">
-							<a id="about_link">About</a>
+							<button id="about_link" >About</button>
 						</li> 	
 						<li id="nav_signup">
-							<a id="signup_link">Signup</a>
+							<button id="signup_link" href="#">Signup</button>
 						</li>
 						<li id="nav_cal">
-							<a id="cal_link">Dates</a>
+							<button id="cal_link" href="#">Dates</button>
 						</li>
 						<li id="nav_contact">
-							<a id="contact_link">Contact</a>
+							<button id="contact_link" href="#">Contact</button>
 						</li>
 					</ul>	
 				</div>

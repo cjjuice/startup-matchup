@@ -24,7 +24,10 @@ body
 	+grid-prefix(1)
 	+grid(11)
 	margin: 0 auto
-	position: relative
+	position: fixed
+	margin-left: 10px
+	background: white
+	padding-bottom: 12px
 	overflow: hidden
 	
 #header #nav_wrapper #navigation .nav 
@@ -38,19 +41,26 @@ body
 	padding-right: 5px
 
 #header #nav_wrapper #navigation .nav li img 
-	margin: 18px 0 0 0	
+	margin: 18px 0 0 0
 	
-#header #nav_wrapper #navigation .nav a 
+	
+#header #nav_wrapper #navigation .nav button 
 	padding: 4px 10px 0 10px
 	color: #959595
 	font: normal normal normal 14px 'DINRegular', Tahoma, Arial, sans-serif
 	text-transform: uppercase
+	border: none
+	background: white
+	cursor: pointer
 
-#header #nav_wrapper #navigation #logo 
+#header #nav_wrapper #navigation #logo button
 	float: left
 	margin-top: 23px
 	width: 170px
 	height: 64px
+	cursor: pointer	
+	border: none
+	background: white
 
 
 #container_wrapper
@@ -102,7 +112,7 @@ body
 	border-bottom: 1px dotted #afafaf
 
 #signup a img
-	padding-top: 60px
+	padding-top: 120px
 
 #signup h3
 	color: #fff 
